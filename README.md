@@ -1,6 +1,8 @@
-# Awesome Django Admin
+# Awesome Django Admin Themes
 
-There are a few other _Awesome Django Admin_ repos, but none have screenshots, which seems important when evaluating different admin themes. Let me know if I missed any other current packages by opening a PR! 🎉
+There are a few other `awesome-django-admin` repos, but many are lacking screenshots which seems important when evaluating something so visual.
+
+Let me know if I missed any other current packages by opening a PR! 🎉
 
 ## Django Daisy
 
