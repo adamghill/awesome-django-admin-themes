@@ -76,6 +76,14 @@ A completely free (MIT) Semantic UI admin theme for Django.
 
 ![django-semantic-admin screenshot](https://raw.githubusercontent.com/globophobe/django-semantic-admin/master/docs/screenshots/change-list.png)
 
+## Dracula
+
+[🛠️](https://github.com/dracula/django-admin)
+
+🧛🏻‍♂️ A dark (and light 🕯️) theme for the Django Admin.
+
+![Dracula screenshot](https://raw.githubusercontent.com/dracula/django-admin/refs/heads/main/screenshots/dark-homepage.png)
+
 # Other resources
 
 - https://djangopackages.org/grids/g/admin-styling/
