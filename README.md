@@ -78,7 +78,7 @@ A completely free (MIT) Semantic UI admin theme for Django.
 
 ## Dracula
 
-[🛠️](https://github.com/dracula/django-admin)
+[🏠](https://draculatheme.com/django-admin) | [🛠️](https://github.com/dracula/django-admin)
 
 🧛🏻‍♂️ A dark (and light 🕯️) theme for the Django Admin.
 
