@@ -84,6 +84,29 @@ A completely free (MIT) Semantic UI admin theme for Django.
 
 ![Dracula screenshot](https://raw.githubusercontent.com/dracula/django-admin/refs/heads/main/screenshots/dark-homepage.png)
 
+## Django Suit
+
+Modern theme for Django admin interface.
+
+<details>
+<summary>Features</summary>
+
+* Modern and professional design
+* Improved list filters
+* Sorting for list and inlines
+* Menu configuration & search
+* Useful CSS/JS addons
+* Based on Twitter Bootstrap
+* Simple installation
+* No 3rd-party requirements
+* 3rd-party app support: django-cms, django-filer and others.
+  
+</details>
+
+[🏠](https://djangosuit.com) | [📖](https://django-suit.readthedocs.io/en/develop/) | [🛠️](https://github.com/darklow/django-suit/)
+
+![Django Suit screenshot](https://djangosuit.com/static/img/django-suit-scr1.png)
+
 # Other resources
 
 - https://djangopackages.org/grids/g/admin-styling/
