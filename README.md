@@ -1,6 +1,6 @@
 # Awesome Django Admin Themes
 
->This aawesome list was turned into a post on the official Django blog: https://www.djangoproject.com/weblog/2025/apr/18/admin-theme-roundup/. ⭐️
+>This awesome list was turned into a post on the official Django blog: https://www.djangoproject.com/weblog/2025/apr/18/admin-theme-roundup/. ⭐️
 
 There are a few other `awesome-django-admin` repos, but many are lacking screenshots which seems important when evaluating something so visual.
 
